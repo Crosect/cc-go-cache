@@ -1,4 +1,4 @@
-package ccCacheTestUtil
+package testutil
 
 import (
 	"github.com/crosect/cc-go-cache"

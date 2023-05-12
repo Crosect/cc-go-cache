@@ -1,4 +1,4 @@
-# cc-go-cache
+# CC-GO-CACHE
 
 ## Installation
 
